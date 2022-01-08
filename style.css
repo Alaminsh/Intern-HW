@@ -1,0 +1,14 @@
+table{
+    
+     border-collapse: collapse;
+     
+     width:px;  
+     height:px;
+}
+
+th, td{
+    text-align:center ;
+    padding: 8px;
+    height: px;
+    width:px;
+}
